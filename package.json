@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finding application that takes results from user surveys to help them find compatible matches. The user name and profile picture of the user is displayed on match.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonsodlopez/friendfinder.git"
+  },
+  "author": "Alfonso Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonsodlopez/friendfinder/issues"
+  },
+  "homepage": "https://github.com/alfonsodlopez/friendfinder#readme"
+}
