@@ -4,7 +4,7 @@
 
 *Friend Finder* is an application to match people based on the user's survey responses. The user responds to a 5 point Likert scale. When the survey is submitted, an simple algorithm runs to find the best user match based on lowest score differences. 
 
-*Friend Finder* application is in essence a simple dating app. This application was built using [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and an extremely limited use of the [Bootstrap](http://getbootstrap.com/) CSS framework.
+*Friend Finder* application is in essence a simple dating app. This application was built using [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and an extremely limited use of the [Bootstrap](http://getbootstrap.com/) CSS framework along with the [Chosen](https://github.com/harvesthq/chosen) CSS framework for the selection boxes.
 
 ## Demo
 	
